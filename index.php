@@ -1,5 +1,5 @@
 <?php
-//--------------Archivos de la aplicación ---------------
+//?--------------Archivos de la aplicación ---------------
 require_once("./config/app.php");
 require_once("./controller/viewsController.php");
 
